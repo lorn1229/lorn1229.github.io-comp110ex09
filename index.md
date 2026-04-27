@@ -18,7 +18,7 @@ I analyzed survey responses using Python and seaborn.
 - There is a group of non-majors that falls into the high-difficulty/low-interest quadrant of the scatterplot
 
 ## Conclusion
-This data supports my recommendation that their is more diverse problem sets added to the course to help non-majors see the utility of programming in their fields of interest.
+This data supports my recommendation that there are more diverse problem sets added to the course to help non-majors see the utility of programming in their fields of interest.
 
 ## Visualization 1
 ![Graph 1](/lorn1229.github.io-comp110ex09/plot1.png)
