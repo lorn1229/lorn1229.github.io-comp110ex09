@@ -31,7 +31,3 @@ This data supports my recommendation that their is more diverse problem sets add
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-
-## This is a small header
-
-This is basic paragraph text.
