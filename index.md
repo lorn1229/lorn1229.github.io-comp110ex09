@@ -21,13 +21,13 @@ I analyzed survey responses using Python and seaborn.
 This data supports my recommendation that their is more diverse problem sets added to the course to help non-majors see the utility of programming in their fields of interest.
 
 ## Visualization 1
-![Graph 1](plot1.png)
+![Graph 1](/lorn1229.github.io-comp110ex09/plot1.png)
 
 ## Visualization 2
-![Graph 2](plot2.png)
+![Graph 2](/lorn1229.github.io-comp110ex09/plot2.png)
 
 ## Visualization 3
-![Graph 3](plot3.png)
+![Graph 3](/lorn1229.github.io-comp110ex09/plot3.png)
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
